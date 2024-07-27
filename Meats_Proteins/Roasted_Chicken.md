@@ -1,13 +1,13 @@
 # Roasted Chicken
 
 ### Macros (per serving):
-- **Calories:** 223
-- **Protein:** 21g
+- **Calories:** 273
+- **Protein:** 40g
 - **Carbs:** 8g
-- **Fat:** 12g
+- **Fat:** 9g
 
 ### Ingredients (for 4 servings):
-- 4 (6 oz) chicken breasts (~680g total) - **540 cal, 80g protein, 0g carbs, 20g fat**
+- 4 (6 oz) chicken breasts (~680g total) - **740 cal, 155g protein, 0g carbs, 8g fat**
 - 2 tablespoons olive oil - **240 cal, 0g protein, 0g carbs, 28g fat**
 - 8 cloves garlic, minced - **36 cal, 1.6g protein, 8g carbs, 0g fat**
 - 2 teaspoons dried thyme - **12 cal, 0.6g protein, 2g carbs, 0g fat**

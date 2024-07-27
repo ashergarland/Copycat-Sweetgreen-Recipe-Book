@@ -1,13 +1,13 @@
 # Miso Glazed Salmon
 
 ### Macros (per serving):
-- **Calories:** 265
-- **Protein:** 19g
+- **Calories:** 338
+- **Protein:** 39g
 - **Carbs:** 13g
 - **Fat:** 13g
 
 ### Ingredients (for 4 servings):
-- 4 (6 oz) salmon fillets (~680g total) - **700 cal, 68g protein, 0g carbs, 40g fat**
+- 4 (6 oz) salmon fillets (~680g total) - **992 cal, 147g protein, 0g carbs, 40g fat**
 - 4 tablespoons miso paste - **112 cal, 6g protein, 12g carbs, 3g fat**
 - 2 tablespoons rice vinegar - **20 cal, 0g protein, 4g carbs, 0g fat**
 - 2 tablespoons soy sauce - **20 cal, 2g protein, 2g carbs, 0g fat**

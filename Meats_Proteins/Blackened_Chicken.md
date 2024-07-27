@@ -1,13 +1,13 @@
 # Blackened Chicken
 
 ### Macros (per serving):
-- **Calories:** 297
-- **Protein:** 36g
+- **Calories:** 272
+- **Protein:** 40g
 - **Carbs:** 6g
-- **Fat:** 14g
+- **Fat:** 9g
 
 ### Ingredients (for 4 servings):
-- 4 (6 oz) chicken breasts (~680g total) - **840 cal, 140g protein, 0g carbs, 28g fat**
+- 4 (6 oz) chicken breasts (~680g total) - **740 cal, 155g protein, 0g carbs, 8g fat**
 - 2 tablespoons olive oil - **240 cal, 0g protein, 0g carbs, 28g fat**
 - 4 teaspoons paprika - **8 cal, 0.4g protein, 1g carbs, 0g fat**
 - 4 teaspoons garlic powder - **36 cal, 1.6g protein, 8g carbs, 0g fat**
