@@ -1,18 +1,18 @@
 # Caramelized Garlic Steak
 
-### Macros:
-- **Calories:** 570
-- **Protein:** 27g
-- **Carbs:** 35g
-- **Fat:** 29g
+### Macros (per serving):
+- **Calories:** 285
+- **Protein:** 26g
+- **Carbs:** 18g
+- **Fat:** 15g
 
-### Ingredients:
-- 2 (6 oz) sirloin steaks (~340g total) - **300 cal, 25g protein, 0g carbs, 15g fat**
-- 1 tablespoon olive oil - **120 cal, 0g protein, 0g carbs, 14g fat**
-- 4 cloves garlic, minced - **18 cal, 0.8g protein, 4g carbs, 0g fat**
-- 2 tablespoons brown sugar - **110 cal, 0g protein, 28g carbs, 0g fat**
-- 1 tablespoon soy sauce - **10 cal, 1g protein, 1g carbs, 0g fat**
-- 1 tablespoon balsamic vinegar - **12 cal, 0g protein, 3g carbs, 0g fat**
+### Ingredients (for 4 servings):
+- 4 (6 oz) sirloin steaks (~680g total) - **600 cal, 100g protein, 0g carbs, 30g fat**
+- 2 tablespoons olive oil - **240 cal, 0g protein, 0g carbs, 28g fat**
+- 8 cloves garlic, minced - **36 cal, 1.6g protein, 8g carbs, 0g fat**
+- 4 tablespoons brown sugar - **220 cal, 0g protein, 56g carbs, 0g fat**
+- 2 tablespoons soy sauce - **20 cal, 2g protein, 2g carbs, 0g fat**
+- 2 tablespoons balsamic vinegar - **24 cal, 0g protein, 6g carbs, 0g fat**
 - Salt and pepper to taste
 
 ### Instructions:
