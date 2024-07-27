@@ -6,7 +6,7 @@
 
 Each entree recipe in this book includes an 'Official Summary' that provides information from Sweetgreen's website, including the ingredients, calories, and macros. However, Sweetgreen does not provide portion sizes for the ingredients or instructions on how to prepare their dishes.
 
-In this recipe book, we estimate the portion sizes for each ingredient and provide an 'Adjusted Total Macros' based on these estimates.
+In this recipe book, we estimate the portion sizes for each ingredient and provide an 'Adjusted Total Macros' based on these estimates. Ingredient macros were estimated using AI, so take them with a grain of salt as they are likely not perfect.
 
 Sweetgreen uses a curated selection of prepared ingredients, including proteins and sauces, to assemble their entrees. This book has recreated all of these prepared ingredients. By making these prepared ingredients, you can easily assemble any of the Sweetgreen entrees or mix-and-match to create your own custom dishes.
 
