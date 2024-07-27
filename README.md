@@ -53,7 +53,7 @@ Sweetgreen uses a curated selection of prepared ingredients, including proteins 
 3. [Caesar Dressing](Sauces_Dressings/Caesar_Dressing.md)
 4. [Hot Honey Mustard Sauce](Sauces_Dressings/Hot_Honey_Mustard_Sauce.md)
 5. [Honey BBQ Sauce](Sauces_Dressings/Honey_BBQ_Sauce.md)
-6. [Spicy Cashew](Sauces_Dressings/Spicy_Cashew.md)
+6. [Spicy Cashew Sauce](Sauces_Dressings/Spicy_Cashew_Sauce.md)
 7. [Lime Cilantro Jalapeño Vinaigrette](Sauces_Dressings/Lime_Cilantro_Jalapeño_Vinaigrette.md)
 
 #### Cooked Vegetables:
